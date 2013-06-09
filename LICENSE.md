@@ -1,9 +1,7 @@
 # LICENSE #
-- This code is protected by the GPL, a link to the GPL can be found at the end of this page.
-
-- In addition to the GPL, the Valve SDK 2.3 EULA overrides any rights you may have obtained in the GPL, when needed.
-
-- The iD Quake 2 Licence overrides portions of both the Valve EULA, and the GPL where needed, please contact iD for information on this subject.
+* This code is protected by the GPL, a link to the GPL can be found at the end of this page.
+* In addition to the GPL, the Valve SDK 2.3 EULA overrides any rights you may have obtained in the GPL, when needed.
+* The iD Quake 2 Licence overrides portions of both the Valve EULA, and the GPL where needed, please contact iD for information on this subject.
 
 Scroll down for the license texts.
 
@@ -352,37 +350,37 @@ Public License instead of this License.
 VALVE, L.L.C.
 SDK LICENSE
 
-This SDK License (the "Agreement") is made by and between you (the "Licensee") and VALVE, L.L.C., a Washington limited liability company ("Valve"), with offices located at 520 Kirkland Way, #201, Kirkland, WA 98033. 
+This SDK License (the "Agreement") is made by and between you (the "Licensee") and VALVE, L.L.C., a Washington limited liability company ("Valve"), with offices located at 520 Kirkland Way, #201, Kirkland, WA 98033.
 
-BY CLICKING "I AGREE" BELOW, AND/OR BY DOWNLOADING THE VALVE SOFTWARE DEVELOPMENT KIT FOR HALF-LIFE (THE "SDK"), YOU AGREE TO BE BOUND BY THIS AGREEMENT. 
+BY CLICKING "I AGREE" BELOW, AND/OR BY DOWNLOADING THE VALVE SOFTWARE DEVELOPMENT KIT FOR HALF-LIFE (THE "SDK"), YOU AGREE TO BE BOUND BY THIS AGREEMENT.
 
-     Whereas, Valve is the developer of the Half-Life computer game and the SDK; 
+     Whereas, Valve is the developer of the Half-Life computer game and the SDK;
 
      Whereas, Licensee wishes to develop a modified game running only on the Half-Life engine (a "Mod") for free distribution in object code form only to licensed end users of Half-Life; and
 
-     Whereas, Licensee wishes to receive, and Valve wishes to disclose to Licensee, an object code version of the Engine, the SDK, and other information as deemed appropriate by Valve, all on the terms set forth herein; 
+     Whereas, Licensee wishes to receive, and Valve wishes to disclose to Licensee, an object code version of the Engine, the SDK, and other information as deemed appropriate by Valve, all on the terms set forth herein;
 
      Now, therefore, in consideration of the mutual promises made herein, the parties agree as follows:
 
-1.     License. 
+1.     License.
 
      1.1     License Grant. Valve hereby grants Licensee a nonexclusive, royalty-free, terminable, worldwide, nontransferable license to:
 
 (a)     use, reproduce and modify the SDK in source code form, solely to develop a Mod; and
 
-(b)     reproduce, distribute and license the Mod in object code form, solely to licensed end users of Half-Life, without charge. 
+(b)     reproduce, distribute and license the Mod in object code form, solely to licensed end users of Half-Life, without charge.
 
      1.2     Updates. Valve may from time to time, in its sole discretion, provide updates, error corrections, and future versions of the SDK to Licensee. Upon delivery, such updates, error corrections and future versions shall be deemed part of the SDK, as applicable, under this Agreement.
 
-     1.3     Reservation of Rights. Valve reserves all rights not explicitly granted herein. 
+     1.3     Reservation of Rights. Valve reserves all rights not explicitly granted herein.
 
      1.4     Indemnity. Licensee hereby agrees that it is solely responsible for any and all Mods and Licensee's creation, distribution, and promotion thereof. Licensee shall defend, indemnify, and hold harmless Valve, its officers, directors, employees and agents against any and all claims, damages, losses, or liabilities whatsoever arising out of Licensee's creation, distribution, or promotion of the Mod.
 
-1.5     Trademarks. Licensee acknowledges and agrees that this Agreement does not grant Licensee any right to use any trademarks or trade names of Valve, Sierra On-Line, Inc., or their licensors. All such marks shall remain the property of the respective owner. 
+1.5     Trademarks. Licensee acknowledges and agrees that this Agreement does not grant Licensee any right to use any trademarks or trade names of Valve, Sierra On-Line, Inc., or their licensors. All such marks shall remain the property of the respective owner.
 
-2.     Term. 
+2.     Term.
 
-2.1     Term. This Agreement shall become effective as of the date Licensee downloads or installs the SDK and shall expire 1 year after such date. 
+2.1     Term. This Agreement shall become effective as of the date Licensee downloads or installs the SDK and shall expire 1 year after such date.
 
 2.2     Termination. Valve may terminate this Agreement immediately upon written (including email) notice to Licensee. The Agreement will terminate automatically upon Licensee's breach of any term of this Agreement.
 
@@ -390,7 +388,7 @@ BY CLICKING "I AGREE" BELOW, AND/OR BY DOWNLOADING THE VALVE SOFTWARE DEVELOPMEN
 
 3.     Disclaimer of Warranties; Limitation of Liability
 
-     3.1     NO WARRANTIES. VALVE AND ITS SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SDK, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+     3.1     NO WARRANTIES. VALVE AND ITS SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SDK, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
      3.2     LIMITATION OF LIABILITY. IN NO EVENT SHALL VALVE OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE ENGINE AND/OR THE SDK, EVEN IF VALVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
@@ -410,7 +408,7 @@ Neither this Agreement nor the disclosure or receipt of Information shall consti
 
 5.5     Entire Agreement. This Agreement constitutes the entire understanding between the parties hereto and supersedes all previous communications, representations and understandings, oral or written, between the parties, with respect to the subject matter of this Agreement.
 
-CLICK BELOW TO INDICATE YOUR ACCEPTANCE OF THIS AGREEMENT. IF YOU DO NOT AGREE, YOU MAY NOT DOWNLOAD AND/OR USE THE SDK. 
+CLICK BELOW TO INDICATE YOUR ACCEPTANCE OF THIS AGREEMENT. IF YOU DO NOT AGREE, YOU MAY NOT DOWNLOAD AND/OR USE THE SDK.
 
 "I AGREE"                    "I DO NOT AGREE"
 
